@@ -19,7 +19,7 @@
             <!-- Coluna de cadastro -->
             <div class="col">
               <div class="card">
-                <img src="img2/img3.png" class="card-img-top" alt="...">
+                <img src="img2/cad1.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Cadastrar</h5>
                   <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis assumenda cumque id eligendi tempore numquam fugit, sit at quam officiis nam quo quod ullam dolores blanditiis doloremque debtis, nobis!</p>
@@ -32,7 +32,7 @@
             <!-- Coluna de cadastro -->
             <div class="col">
               <div class="card">
-                <img src="img2/img1.jpg" class="card-img-top" alt="...">
+                <img src="img2/pesquisa2.png" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Pesquisar</h5>
                   <p 
@@ -46,7 +46,7 @@
             <!-- Coluna de ajuda -->
             <div class="col">
               <div class="card">
-                <img src="img2/img2.jpg" class="card-img-top" alt="...">
+                <img src="img2/ajuda.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Ajuda</h5>
                   <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt fugiat, iure tempora aut consequuntur, sit, dolorem quis laudantium aliquid quasi veritatis reiciendis dolores ullam nemo. Velit, incidunt!</p>
